@@ -25,75 +25,109 @@ jobs:
       max-parallel: 10
       matrix:
         destination:
+
           - PEG
+
           - PFO
+
           - PMF
+
           - PMI
+
           - PMO
+
           - PNL
-          - POS
+
           - PRG
+
           - PSA
-          - PUJ
+
           - PUY
-          - PVG
+
           - PVK
-          - PVR
+
           - RAK
+
           - REU
+
           - RHO
+
           - RIX
-          - RMF
+
           - RMU
+
           - RVN
+
           - SDR
-          - SFB
-          - SFO
-          - SID
+
           - SJJ
-          - SJO
+
           - SKG
+
           - SMI
+
           - SNN
+
           - SOF
+
           - SPU
-          - SSH
+
           - STR
+
           - SVG
+
           - SVQ
+
           - SXB
+
           - SZG
+
           - TER
+
           - TFS
+
           - TGD
+
           - TIA
+
           - TIV
+
           - TLL
+
           - TLS
-          - TLV
+
           - TNG
+
           - TOS
-          - TPA
+
           - TRD
+
           - TRN
+
           - TRS
+
           - TUN
+
           - TZX
-          - UVF
+
           - VCE
+
           - VIE
+
           - VLC
+
           - VOL
+
           - VRN
+
           - YEI
-          - YHZ
-          - YUL
-          - YVR
-          - YYC
-          - YYZ
+
           - ZAD
+
           - ZAZ
+
           - ZRH
+
           - ZTH
 
     steps:

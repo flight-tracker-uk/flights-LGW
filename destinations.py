@@ -1,4 +1,4 @@
-"""London Gatwick Airport (LGW) destinations — April 2026."""
+"""London Gatwick Airport (LGW) destinations — May 2026."""
 
 DESTINATIONS = {
     "LGW": {
@@ -12,6 +12,7 @@ DESTINATIONS = {
             "GIB": "Gibraltar",
             "GLA": "Glasgow",
             "INV": "Inverness",
+            "IOM": "Isle of Man",
             "JER": "Jersey",
             "MAN": "Manchester",
             "NOC": "Knock",
@@ -48,6 +49,7 @@ DESTINATIONS = {
             "BGY": "Milan Bergamo",
             "BLQ": "Bologna",
             "BRI": "Bari",
+            "CAG": "Cagliari",
             "CTA": "Catania",
             "FCO": "Rome Fiumicino",
             "FLR": "Florence",
@@ -78,6 +80,7 @@ DESTINATIONS = {
             "MRS": "Marseille",
             "NCE": "Nice",
             "NTE": "Nantes",
+            "RNS": "Rennes",
             "SXB": "Strasbourg",
             "TLS": "Toulouse",
             # Corsica
@@ -187,60 +190,10 @@ DESTINATIONS = {
             "RAK": "Marrakech",
             "TNG": "Tangier",
             "TUN": "Tunis",
-            # Middle East & Egypt
-            "AMM": "Amman",
-            "AQJ": "Aqaba",
-            "DOH": "Doha",
-            "DXB": "Dubai",
-            "HRG": "Hurghada",
-            "JED": "Jeddah",
-            "RMF": "Marsa Alam",
-            "SSH": "Sharm El Sheikh",
-            "TLV": "Tel Aviv",
-            # Caribbean & Central America
-            "ANU": "Antigua",
-            "BGI": "Barbados",
-            "CUN": "Cancun",
-            "GND": "Grenada",
-            "HAV": "Havana",
-            "MBJ": "Montego Bay",
-            "POS": "Port of Spain",
-            "PUJ": "Punta Cana",
-            "PVR": "Puerto Vallarta",
-            "UVF": "St Lucia",
-            # North America
-            "BOS": "Boston",
-            "JFK": "New York JFK",
-            "LAS": "Las Vegas",
-            "LAX": "Los Angeles",
-            "MCO": "Orlando",
-            "SFB": "Orlando Sanford",
-            "SFO": "San Francisco",
-            "TPA": "Tampa",
-            "YHZ": "Halifax",
-            "YUL": "Montreal",
-            "YVR": "Vancouver",
-            "YYC": "Calgary",
-            "YYZ": "Toronto",
-            # South & Central America
-            "LIM": "Lima",
-            "SJO": "San Jose (Costa Rica)",
-            # Africa & Indian Ocean
-            "BVC": "Boa Vista (Cape Verde)",
-            "CPT": "Cape Town",
-            "MRU": "Mauritius",
-            "SID": "Sal (Cape Verde)",
-            # Asia & Far East
-            "HKG": "Hong Kong",
-            "HKT": "Phuket",
-            "MLE": "Male (Maldives)",
-            "NRT": "Tokyo Narita",
-            "PVG": "Shanghai",
-            # Russia & Belarus
-            "LED": "St Petersburg",
-            "MSQ": "Minsk",
             # Malta
             "MLA": "Malta",
+            # North Africa baseline-listed
+            "NBE": "Enfidha",
         },
     },
 }

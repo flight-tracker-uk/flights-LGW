@@ -25,76 +25,120 @@ jobs:
       max-parallel: 10
       matrix:
         destination:
-          - GND
+
+          - CAG
+
           - GOA
+
           - GRO
+
           - GRX
+
           - GVA
+
           - HAM
-          - HAV
+
           - HER
-          - HKG
-          - HKT
-          - HRG
+
           - IBZ
+
           - INN
+
           - INV
+
+          - IOM
+
           - IST
+
           - IVL
-          - JED
+
           - JER
-          - JFK
+
           - JMK
+
           - JSI
+
           - JTR
+
           - KEF
+
           - KGS
+
           - KLX
+
           - KRK
+
           - KTT
-          - LAS
-          - LAX
+
           - LCA
-          - LED
+
           - LEI
-          - LIM
+
           - LIN
+
           - LIS
+
           - LJU
+
           - LMP
+
           - LPA
+
           - LRH
+
           - LUX
+
           - LXS
+
           - LYS
+
           - MAD
+
           - MAH
+
           - MAN
-          - MBJ
-          - MCO
+
           - MJT
+
           - MLA
-          - MLE
+
           - MPL
+
           - MRS
-          - MRU
-          - MSQ
+
           - MUC
+
           - MXP
+
           - NAP
+
+          - NBE
+
           - NCE
+
           - NOC
-          - NRT
+
           - NTE
+
           - OLB
+
           - OPO
+
           - ORK
+
           - OSD
+
           - OSL
+
           - OTP
+
           - OUD
+
           - OVD
+
           - PDL
+
+          - RNS
 
     steps:
       - name: Checkout code
